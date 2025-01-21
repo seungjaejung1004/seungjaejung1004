@@ -8,7 +8,6 @@
 - Email : wjdtmdwo9818@gmail.com / <a href="mailto:lyuhw11023@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a> 
 - 생년월일 : 2000.10.23
 
-@@ -17,96 +18,86 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyuhw1023&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
