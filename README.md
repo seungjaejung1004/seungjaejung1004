@@ -3,7 +3,7 @@
 #### AI Researcher / Data Engineering
 As an AI researcher, I strive to create innovative technologies that generate social value and provide practical solutions.
 
-<h2 style="font-size: 24px;">![image](https://github.com/user-attachments/assets/141a06ac-84ed-4bcd-9ddc-814d44254fff) Information</h2>
+<h2 style="font-size: 24px;">🔔 Information</h2>
 
 <h2 style="font-size: 24px;">🛠️  Stacks</h2>
 
