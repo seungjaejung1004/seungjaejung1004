@@ -1,7 +1,7 @@
-### Hi Welcome, i'm SeungJae Jung 👋
-
-#### AI Researcher / Data Engineering
+### Hi Welcome, I'm SeungJae Jung 👋
+**AI Researcher / Data Engineering**  
 As an AI researcher, I strive to create innovative technologies that generate social value and provide practical solutions.
+
 <br>
 ---
 <br>
