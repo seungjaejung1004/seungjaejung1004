@@ -1,11 +1,11 @@
 
 ### 🔔Info
 
-- 이름 : 유혜원
+- 이름 : 정승재
 - 소속 : 정보과학대학 소프트웨어학부  
 + 주전공 : 빅데이터
-+ 복수전공 : 스마트IoT
-- Email : lyuhw11023@gmail.com / <a href="mailto:lyuhw11023@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a> 
++ 복수전공 : 컨텐츠 IT
+- Email : wjdtmdwo9818@gmail.com / <a href="mailto:lyuhw11023@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a> 
 - 생년월일 : 2000.10.23
 - Resume : https://lyuhw1023.github.io 
 
