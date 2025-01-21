@@ -9,87 +9,48 @@
 - 생년월일 : 2002.10.04
 
 
-
-
 ***  
 ### 📚 Stacks
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" width="120" height="30"/><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" width="120" height="30"/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" width="120" height="30"/><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" width="120" height="30"/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" width="120" height="30"/>
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height=20/>
 
 
+
+### 💪🏼Tools
+
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> 
 
 ***
+### 🏆 Awards
+|Competition|Prize|Date|
+|------|---|---|
+|Hallym University C애랑 동아리 전시회|2nd Prize|Nov. 07, 2024|
 
-### 📂 Project 📂
-- 자동뷔페용기 제작 (Arduino)
-- 실시간 좌석 조회 시스템 웹 페이지 개발 (HTML, CSS, JavaScript)
-- 웹 블로그 개발 (HTML, CSS, JavaScript)
-- 웹 블로그 개발 (WordPress)
-- 정신 건강 관리 웹 페이지, WeWith 개발 (WordPress)
-- 포트폴리오 관리 애플리케이션, SmartPortfolio 개발 (Kotlin)
-- 시각장애인을 위한 AI 카메라 서비스 애플리케이션, EYEFORYOU 개발 (Flutter)
-- 환경 보호 캠페인 플랫폼, EcoGiv 개발 (HTML, CSS, JS, MYSQL)
-- 실버타운 관리 플랫폼, SilverLife 개발 (Flutter)
-- 창작중심 SNS 플랫폼, TO.MORROW 개발 (Flutter)
+***
+### 📂 Project 
+- 'MMC Lab' 의료 딥러닝 프로젝트(논문결과재현)
+- 흑백사진 컬러사진으로 변환시키는 AI 프로젝트
+- AI 활용 티니핑 캐릭터 유사도 판별 프로젝트
+
 
 *** 
 
-### 📖 CLASS 📖 
-|학기|과목명|학기|과목명|학기|과목명|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|2020-1|이산구조론|2021-2|데이터베이스기초|2022-2|모바일프로그래밍|
-|2020-1|자바프로그래밍1|2021-2|알고리즘|2022-2|컴퓨터구조|
-|2020-1|논리설계및실험|2021-2|오픈소스하드웨어응용|2022-2|디지털신호처리|
-|2020-1|컴퓨팅사고와문제해결|2021-2|데이터통신|2022-2|오픈소스SW개발도구활용|
-|2020-2|선형대수|2022-1|인공지능|2024-1|웹서버구축|
-|2020-2|창의코딩웹|2022-1|웹프로그래밍|2024-1|운영체제|
-|2021-1|자료구조|2022-1|신호및시스템|2024-1|머신러닝|
-|2021-1|회로이론및실험|2022-1|소프트웨어공학|2024-1|소프트웨어캡스톤디자인|
-|2021-1|C프로그래밍|2022-1|프로그래밍어론|2024-2|클라우드컴퓨팅|
-|2021-1|소프트웨어개론|2022-1|데이터베이스시스템|2024-2|SW창업전략과펀딩|
-|2021-1|데이터사이언스기초|-|-|-|-|
+### 📌  ACTIVITIES 
+- 2024년도 강원혁신플랫폼 공공빅데이터 활용 공모전 참여
+- 2024년도 1학기 학기우등
+- 2024년도 2학기 학기우등
+- 2025년도 AI연구실 'MMC' 학부연구생 등록
 
-
-***
-### 💻 ACTIVITIES 💻
-- 2020년도 1학기 신입생 몰입형 SW코딩캠프
-- 2020년도 2학기 인공지능 교육 특강 수료
-- 2020년도 2학기 전공 멘토링(자바2)
-- 2021년도 1학기 전공 멘토링(C언어)
-- codeit 대학생 코딩 캠프 7기 수료 (2021.6.23~ 2021.7.23)
-- 2021년도 2학기 전공 멘토링(파이썬)
-- 2022년도 정보과학대학 학술동아리 노네임 회장
-- 2022년도 1학기 SW교과목 멘토링(컴퓨팅사고 AI기초) 진행
-- 2022년도 1학기 상생러닝디딤돌 멘토링 진행
-- 2022년도 1학기 SW전공 멘토링(파이썬) 진행
-- 2022년도 2학기 SW전공 멘토링(창의코딩웹) 진행
-- 2022년도 정보과학대학 서공제 아이디어 부문 장려상
-- 2023년도 한림모여코딩 프로그램 우수활동 팀 선정
-- 2024년도 SW 캡스톤 디자인 참여
-- 2024년도 한림 오픈소스 SW 해커톤 우수상
-- 2024년도 프라이머 제2회 GenAI 해커톤 참여 
-- 2024년도 SW Week GitHub 이력서 콘테스트 해커톤 은상
-- 2024년도 씨애랑 SW 전시회 인기상
-- 2024년도 정보과학대학 서공제 생성형 AI 활용 : 마스코트 만들기 부문 본선 진출 
-- 2024년도 정보과학대학 서공제 완성작 부문 본선 진출
-- 2024년도 2학기 SW전공 멘토링(창의코딩 - 모두의 웹) 진행
 
 ***
 
 ### ✔ Carrer ✔
-- 2020년도 제 2대 소프트웨어융합대학 학생회 'STEP' 체육국 부원
-- 2020년도 교내 소프트웨어융합대학 학술동아리 노네임 활동
-- 2021년도 제 3대 소프트웨어융합대학 학생회 'WUSM' 체육국 부장
-- 2021년도 창업동아리 'TAG' 활동
-- 2021년도 창업동아리 '트라움' 활동
-- 2022년도 제 1대 정보과학대학 학생회 'A:BLE' 기획국 국장
-- 2022년도 교내 정보과학대학 학술동아리 노네임 회장
-- 2022년도 한림대학교 대동제 '그,_림'  축제준비위원회 밤부스팀
-- 2024년도 교내 정보과학대학 학술동아리 씨애랑 라떼팀
-- 2024년도 제 3대 정보과학대학 학생회 'Ready' 사무국 국장
-- 2024년도 중앙선거관리위원회 운영국
-
+- 2021년도 제 3대 소프트웨어융합대학 학생회 'WUSM' 복지국 부원
+- 2024년도 교내 정보과학대학 학술동아리  C.愛.랑 인공지능(텐서) 팀원
+- 2024년도 제 3대 정보과학대학 학생회 'Ready' 사무국 부원
+- 2025년도 교내 정보과학대학 학술동아리  C.愛.랑 인공지능(텐서) 운영진
 ***
 
 ### 🎓 Education 🎓
-- 해성여자고등학교 (2017 - 2020)
-- 한림대학교 정보과학대학 (2020.03 - 2025.02)
+- 성덕고등학교 (2018 - 12020)
+
