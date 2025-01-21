@@ -9,9 +9,11 @@ As an AI researcher, I strive to create innovative technologies that generate so
 <br>
 <h2 style="font-size: 24px;">🔔 Information</h2>
 
-* 이름
-* 나이
-* 이메일
+* 이름 : 정승재 / JungSeungJae
+* 소속 : 정보과학대학 소프트웨어학부
+  - 주전공 : 빅데이터
+  - 복수전공 : 컨텐츠IT
+* 생년월일 : 2002.10.04
 
 <br>
 
