@@ -27,5 +27,6 @@ As an AI researcher, I strive to create innovative technologies that generate so
 |------|---|---|
 |Hallym University C애랑 동아리 전시회|2nd Prize|Nov. 07, 2024|
 
-
+![image](https://github.com/user-attachments/assets/08f34eb6-5472-489d-bbab-ba52fed15643)
+ㄴㄴ
 
