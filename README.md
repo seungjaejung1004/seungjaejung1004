@@ -1,4 +1,4 @@
-### Hi Welcome, i'm YUNA BAE 👋
+### Hi Welcome, i'm SeungJae Jung 👋
 
 #### AI Researcher / Web Developer  
 #### AI Researcher / Data Engineering
