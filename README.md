@@ -1,8 +1,5 @@
 
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hyewon's%20Github&fontSize=90)
-
-### 👩‍💻Info👩‍💻
+### 🔔Info
 
 - 이름 : 유혜원
 - 소속 : 정보과학대학 소프트웨어학부  
