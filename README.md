@@ -29,6 +29,3 @@ As an AI researcher, I strive to create innovative technologies that generate so
 
 
 
-
-There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
-Please understand.
