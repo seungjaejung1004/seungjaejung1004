@@ -11,18 +11,6 @@
 
 
 
-***
-
-### 🖇Connect
-
-<a href="https://instagram.com/lyuhw00" >
-    <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/lyuhw0_0/"/>
-</a>
-<a>
-    <img src="http://img.shields.io/badge/-lyuhw11023@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
-</a>
-
-
 ***  
 ### 📚 Skills 📚
 <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,kotlin,java,html,css,js,mysql,dcomponents&perline="/>
