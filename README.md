@@ -9,7 +9,7 @@
 - 생년월일 : 2002.10.04
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyuhw1023&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ***
 
