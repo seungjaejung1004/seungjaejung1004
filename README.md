@@ -7,7 +7,6 @@
     + 복수전공 : 스마트IoT
 - Email : wjdtmdwo9818@gmail.com / <a href="mailto:lyuhw11023@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a> 
 - 생년월일 : 2000.10.23
-- Resume : https://lyuhw1023.github.io 
 
 @@ -17,96 +18,86 @@
 
