@@ -3,11 +3,9 @@
 #### AI Researcher / Data Engineering
 As an AI researcher, I strive to create innovative technologies that generate social value and provide practical solutions.
 <br>
-
 ---
-
 <br>
-<h2 style="font-size: 24px;">🔔 Information</h2>
+<p><b>🔔 Information</b></p>
 
 * 이름 : 정승재 / JungSeungJae
 * 소속 : 정보과학대학 소프트웨어학부
