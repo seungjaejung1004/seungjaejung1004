@@ -27,7 +27,7 @@ As an AI researcher, I strive to create innovative technologies that generate so
 
 
 
-🐱 About Me
+<h2 style="font-size: 24px;">🐱 About Me</h2>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunabae482@gmail.com)](wjdtmdwo9818@gmail.com)
 
