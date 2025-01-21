@@ -4,6 +4,7 @@
 As an AI researcher, I strive to create innovative technologies that generate social value and provide practical solutions.
 
 ***
+![free-icon-information-security-9406200](https://github.com/user-attachments/assets/342486bb-0d98-4290-8e4a-f340f7668c25) information
 
 ***
 🛠️ Stacks
