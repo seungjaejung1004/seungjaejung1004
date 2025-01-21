@@ -34,7 +34,7 @@ As an AI researcher, I strive to create innovative technologies that generate so
 
 ***
 
-🏆 Awards
+<h2 style="font-size: 24px;">🏆 Awards</h2>
 |Competition|Prize|Date|
 |------|---|---|
 |Hallym University C애랑 동아리 전시회|2nd Prize|Nov. 07, 2024|
