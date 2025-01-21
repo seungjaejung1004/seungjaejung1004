@@ -7,7 +7,7 @@ As an AI researcher, I strive to create innovative technologies that generate so
 ---
 
 <br>
-## 🔔 Information
+<h2 style="font-size: 24px;">🔔 Information</h2>
 
 * 이름
 * 나이
