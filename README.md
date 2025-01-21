@@ -1,8 +1,7 @@
 ### Hi Welcome, i'm SeungJae Jung 👋
 
 #### AI Researcher / Data Engineering
-Developers who create beneficial social values   
-A developer who thinks, researches, creates, and connects to practical realization by web
+As an AI researcher, I strive to create innovative technologies that generate social value and provide practical solutions.
 
 
 🛠️ Stacks
