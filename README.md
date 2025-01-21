@@ -25,8 +25,7 @@ As an AI researcher, I strive to create innovative technologies that generate so
 🏆 Awards
 |Competition|Prize|Date|
 |------|---|---|
-|Microsoft News Recommendation|World 2nd Prize|Oct 21, 2020|
-|Kaggle Man/Female Predict Competition|1st|Jan 25, 2019|
+|Hallym University C애랑 동아리 전시회|2nd Prize|Nov. 07, 2024|
 
 
 
