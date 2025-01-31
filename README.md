@@ -29,7 +29,7 @@
 ***
 ### 📂 Project 
 - 'MMC Lab' 의료 딥러닝 프로젝트(논문결과재현)
-- 흑백사진 컬러사진으로 변환시키는 AI 프로젝트
+- pix2pix , cyclegan 비교실험 프로젝트(colorization , weather conversion , super resolution)
 - AI 활용 티니핑 캐릭터 유사도 판별 프로젝트
 
 
