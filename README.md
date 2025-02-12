@@ -1,49 +1,25 @@
 
+### 🔔 Info
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hyewon's%20Github&fontSize=90)
-
-### 👩‍💻Info👩‍💻
-
-- 이름 : 유혜원
+- 이름 : 정승재
 - 소속 : 정보과학대학 소프트웨어학부  
      + 주전공 : 빅데이터
-     + 복수전공 : 스마트IoT
-- Email : lyuhw11023@gmail.com / <a href="mailto:lyuhw11023@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a> 
-- 생년월일 : 2000.10.23
-- Resume : https://lyuhw1023.github.io 
-
-@@ -17,96 +18,86 @@
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyuhw1023&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-***
-### 🖇Connect
-<a href="https://instagram.com/lyuhw00" >
-    <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/lyuhw0_0/"/>
-</a>
-<a>
-    <img src="http://img.shields.io/badge/-lyuhw11023@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
-</a>
+     + 복수전공 : 컨텐츠 IT
+- Email : wjdtmdwo9818@gmail.com / <a href="mailto:lyuhw11023@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a> 
+- 생년월일 : 2002.10.04
 
 
 ***  
 ### 📚 Skills 📚
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,kotlin,java,html,css,js,mysql,dcomponents&perline="/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,c,dcomponents&perline="/>
 
 
 ***
 
 ### 📂 Project 📂
-- 자동뷔페용기 제작 (Arduino)
-- 실시간 좌석 조회 시스템 웹 페이지 개발 (HTML, CSS, JavaScript)
-- 웹 블로그 개발 (HTML, CSS, JavaScript)
-- 웹 블로그 개발 (WordPress)
-- 정신 건강 관리 웹 페이지, WeWith 개발 (WordPress)
-- 포트폴리오 관리 애플리케이션, SmartPortfolio 개발 (Kotlin)
-- 시각장애인을 위한 AI 카메라 서비스 애플리케이션, EYEFORYOU 개발 (Flutter)
-- 환경 보호 캠페인 플랫폼, EcoGiv 개발 (HTML, CSS, JS, MYSQL)
-- 실버타운 관리 플랫폼, SilverLife 개발 (Flutter)
-- 창작중심 SNS 플랫폼, TO.MORROW 개발 (Flutter)
+- AI활용 티니핑 캐릭터 유사도 측정 프로젝트
+- MMC Lab 의료 딥러닝 프로젝트
+- pix2pix , CycleGAN 비교 프로젝트
 
 *** 
 
