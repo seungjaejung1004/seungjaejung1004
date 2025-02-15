@@ -7,6 +7,8 @@
      + 복수전공 : 컨텐츠 IT
 - Email : wjdtmdwo9818@gmail.com / <a href="mailto:lyuhw11023@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a> 
 - 생년월일 : 2002.10.04
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungjaejung1004&layout=compact&theme=tokyonight)
 
 
 ***  
@@ -15,7 +17,12 @@
 
 
 ***
+### 🏆 Awards
+|Competition|Result|Date|
+|---|---|---|
+|Hallym University SW 동아리 전시회|은상|24.11.07|
 
+***
 ### 📂 Project 
 - AI활용 티니핑 캐릭터 유사도 측정 프로젝트
 - MMC Lab 의료 딥러닝 프로젝트
