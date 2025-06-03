@@ -21,7 +21,7 @@
 |Competition|Result|Date|
 |---|---|---|
 |Hallym University SW 동아리 전시회|은상|24.11.07|
-|Hallym University AI detection competition|동상|25.06.02|
+|Hallym University AI text detection competition|동상|25.06.02|
 
 
 ***
