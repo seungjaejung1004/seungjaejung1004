@@ -28,7 +28,7 @@
 ### 📂 Project 
 - AI활용 티니핑 캐릭터 유사도 측정 프로젝트
 - MMC Lab 의료 딥러닝 프로젝트
-- pix2pix , CycleGAN 비교 프로젝트(Colrization , Denoising , Cartoonization)
+- Image-to-Image Translation Experiments with CycleGAN and pix2pix (Colrization , Denoising , Cartoonization)
 
 *** 
 
