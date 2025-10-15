@@ -41,6 +41,9 @@
 - 2024년도 Hallym University sw week 동아리 전시회 인기상
 - 2024년도 AI 연구실 'MMC' 연구원 등록
 - 2025년도 인공지능경진대회(Dacon) 부동산 허위매물 분류 캡스톤 참여
+- Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks 구현
+- A DCT-domain system for robust image watermarking 구현
+- A DCT-domain system for robust image watermarking 통계분석 및 CDMA 구현
   
 
 ***
