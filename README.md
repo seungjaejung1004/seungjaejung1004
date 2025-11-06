@@ -22,6 +22,8 @@
 |---|---|---|
 |Hallym University SW 동아리 전시회|은상|24.11.07|
 |Hallym University AI text detection competition|동상|25.06.02|
+|한림 AI 경진대회|금상|25.11.06|
+|한림 정보보호 아이디어 공모전|은상|25.11.06|
 
 
 ***
