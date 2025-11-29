@@ -37,6 +37,7 @@
 - AI활용 티니핑 캐릭터 유사도 측정 프로젝트
 - MMC Lab 의료 딥러닝 프로젝트
 - Image-to-Image Translation Experiments with CycleGAN and pix2pix (Colrization , Denoising , Cartoonization)
+- 생성형 비디오를 활용한 캐릭터 모션 추출 및 리깅 자동화
 
 *** 
 
@@ -44,11 +45,7 @@
 - 2024년도 1학기 학기우등
 - 2024년도 2학기 학기우등
 - 2025년도 1학기 학기우등
-- 2024년도 강원혁신플랫폼 공공빅데이터활용 정밀의료 AI 경진대회 참여
-- 2024년도 수학적 모델링의 기초와 응용 수료
-- 2024년도 Hallym University sw week 동아리 전시회 인기상
 - 2024년도 AI 연구실 'MMC' 연구원 등록
-- 2025년도 인공지능경진대회(Dacon) 부동산 허위매물 분류 캡스톤 참여
 - Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks 구현
 - A DCT-domain system for robust image watermarking 구현
 - A DCT-domain system for robust image watermarking 통계분석 및 CDMA 구현
