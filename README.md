@@ -15,6 +15,11 @@
 ### 📚 Skills 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,c,dcomponents&perline="/>
 
+***
+### 📃 paper
+|Paper|Publication|Year|
+|---|---|---|
+|생성형 비디오를 활용한 캐릭터 모션 추출 및 리깅 자동화|디지털 콘텐츠 학회|25.11|
 
 ***
 ### 🏆 Awards
