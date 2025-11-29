@@ -34,7 +34,7 @@
 
 ***
 ### 📂 Project 
-- AI활용 티니핑 캐릭터 유사도 측정 프로젝트
+- ResNet활용 티니핑 캐릭터 유사도 측정 프로젝트
 - MMC Lab 의료 딥러닝 프로젝트
 - Image-to-Image Translation Experiments with CycleGAN and pix2pix (Colrization , Denoising , Cartoonization)
 - 생성형 비디오를 활용한 캐릭터 모션 추출 및 리깅 자동화
