@@ -45,6 +45,7 @@
 - 2024년도 1학기 학기우등
 - 2024년도 2학기 학기우등
 - 2025년도 1학기 학기우등
+- 2025년도 2학기 학기우등
 - 2024년도 AI 연구실 'MMC' 연구원 등록
 - Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks 구현
 - A DCT-domain system for robust image watermarking 구현
