@@ -38,6 +38,8 @@
 - MMC Lab 의료 딥러닝 프로젝트
 - Image-to-Image Translation Experiments with CycleGAN and pix2pix (Colrization , Denoising , Cartoonization)
 - 생성형 비디오를 활용한 캐릭터 모션 추출 및 리깅 자동화
+- 오토인코더를 사용한 뇌 종양 Segmentation
+- Knowledge Distillation을 사용한 Fine grained Classification task 최적화
 
 *** 
 
