@@ -39,20 +39,20 @@
 
 ***
 ### 📂 Project 
-- ResNet활용 티니핑 캐릭터 유사도 측정 프로젝트
 - MMC Lab 의료 딥러닝 프로젝트
 - Image-to-Image Translation Experiments with CycleGAN and pix2pix (Colrization , Denoising , Cartoonization)
 - 생성형 비디오를 활용한 캐릭터 모션 추출 및 리깅 자동화
-- 오토인코더를 사용한 뇌 종양 Segmentation
-- Knowledge Distillation을 사용한 Fine grained Classification task 최적화
+- Brain Tumor Segmentation Using Autoencoders
+- Fine-Grained Classification Task Optimization Using Knowledge Distillation
 
 *** 
 
 ### 📌 ACTIVITIES 
-- 2024년도 1학기 학기우등
-- 2024년도 2학기 학기우등
-- 2025년도 1학기 학기우등
+- 2026년도 1학기 학기우등
 - 2025년도 2학기 학기우등
+- 2025년도 1학기 학기우등
+- 2024년도 2학기 학기우등
+- 2024년도 1학기 학기우등
 - 2024년도 AI 연구실 'MMC' 연구원 등록
 - Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks 구현
 - A DCT-domain system for robust image watermarking 구현
